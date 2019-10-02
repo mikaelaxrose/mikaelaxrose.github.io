@@ -1,11 +1,11 @@
 body {
-	background: #FFA491 url('../images/2099184.svg');
-	color: #333;
+	background: #CC6214 url('../images/crisp-paper-ruffles.png');
+	color: #100742;
 }
 
 a {
 	text-decoration: none;
-	color: #333;
+	color: #100742;
 }
 
 a:hover { color: Tomato; }
@@ -18,10 +18,11 @@ header, nav, main, footer {
 
 /* Header styles */
 header { 
-	background-color: #000;
-	color: BlanchedAlmond;
+	background-color: white;
+	color: #100742;
 	min-height: 100px;
 	margin-top: 60px;
+	font-family: 'Playfair Display', serif;
 }
 
 header h1 {
@@ -36,7 +37,7 @@ nav ul {
 	justify-content: flex-end;
 }
 nav li { padding: 10px 10px; }
-nav a { color: BlanchedAlmond; }
+nav a { color: #FFAC40; }
 nav a:hover { color: white; }
 
 
@@ -65,8 +66,8 @@ aside {
 
 /* Footer styles */
 footer { 
-	background-color: #000;
-	color: white;
+	background-color: #333;
+	color: #FFAC40;
 	text-align: center;
  }
  footer p { padding: 20px; }
