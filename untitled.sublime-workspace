@@ -7,17 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<title>Mikaela Scott's Homepage</title>\n\t<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css\">\n\t<link rel=\"stylesheet\" href=\"css/style.css\">\n</head>\n<body>\n\t<header>\n\t\t<h1>Student-Name's Homepage</h1>\n\t</header>\n\t<nav>\n\t\t<ul>\n\t\t\t<li><a href=\"#\">link</a></li>\n\t\t\t<li><a href=\"#\">link</a></li>\n\t\t\t<li><a href=\"#\">link</a></li>\n\t\t</ul>\n\t</nav>\n\t<main>\n\t\t<section>\n\t\t\t<h2>Projects</h2>\n\t\t\t<ul>\n\t\t\t\t<li><a href=\"#\">link</a></li>\n\t\t\t\t<li><a href=\"#\">link</a></li>\n\t\t\t\t<li><a href=\"#\">link</a></li>\n\t\t\t</ul>\n\t\t</section>\n\t\t<aside>\n\t\t\t<h2>Useful Links</h2>\n\t\t\t<ul>\n\t\t\t\t<li><a href=\"#\">link</a></li>\n\t\t\t\t<li><a href=\"#\">link</a></li>\n\t\t\t\t<li><a href=\"#\">link</a></li>\n\t\t\t</ul>\n\t\t</aside>\n\t</main>\n\t<footer>\n\t\t<p>&copy; me 2019</p>\n\t</footer>\n</body>\n</html>",
-			"file": "index.html",
-			"file_size": 853,
-			"file_write_time": 132145083394832610,
-			"settings":
-			{
-				"buffer_size": 859,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -51,10 +40,11 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/mikaelahatch/Desktop/username.github.io"
 	],
 	"file_history":
 	[
+		"/Users/mikaelahatch/Desktop/username.github.io/index.html",
+		"/Users/mikaelahatch/Desktop/username.github.io/css/style.css",
 		"/Users/mikaelahatch/Documents/GitHub/username.github.io/index.html"
 	],
 	"find":
@@ -90,38 +80,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 859,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								96,
-								96
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
